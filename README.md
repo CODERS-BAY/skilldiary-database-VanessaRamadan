@@ -297,3 +297,22 @@ You can create tables by assembling a list of words and dividing them with hyphe
     </td>
   </tr>
 </table>
+
+
+<p>I learned why I should use databases and what their benefits are.<br/>
+  The nine Codds conditions are:<br/>
+integration<br/>
+operation<br/>
+data dictionary<br/>
+user layers<br/>
+integrity independence<br/>
+access control<br/>
+transaction<br/>
+synchronization<br/>
+data backup<br/>
+  I learned about the concept of data modelling, the entity relationship model and what it means and how to use it. <br/>
+  The ERM is there to show the specific relationships between entities. <br/>
+  Entities have attributes like id and name for example.<br/>
+  The relationship between the entities are described with the cardinalities (1:1,N:1,1:N,M:N).</p>![library](https://user-images.githubusercontent.com/85480197/122469290-113e5b80-cfbd-11eb-81af-3339c139d957.jpg)
+
+
