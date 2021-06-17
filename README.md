@@ -1,3 +1,4 @@
+![20210617_061157](https://user-images.githubusercontent.com/85480197/122343573-21ffba80-cf46-11eb-9aa6-2065ddfab91d.jpg)
 # Skill Diary Database Vöcklabruck
 ## Informational Stuff
 The trainers of CODERS.BAY decided to let you write a documentation of what you have learned. 
